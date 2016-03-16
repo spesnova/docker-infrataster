@@ -1,4 +1,6 @@
 # Infrataster Docker Image
+[![Docker Repository on Quay](https://quay.io/repository/spesnova/infrataster/status "Docker Repository on Quay")](https://quay.io/repository/spesnova/infrataster)
+
 Dockerized [Infrataster](https://github.com/ryotarai/infrataster).
 
 ## SUPPORTED TAGS
