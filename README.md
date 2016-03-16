@@ -1,5 +1,5 @@
 # Infrataster Docker Image
-Docker Image for [Infrataster](https://github.com/ryotarai/infrataster).
+Dockerized [Infrataster](https://github.com/ryotarai/infrataster).
 
 ## SUPPORTED TAGS
 
@@ -71,4 +71,4 @@ Finished in 0.0162 seconds (files took 0.87936 seconds to load)
 2 examples, 0 failures
 ```
 
-See an example using Docker Compose.
+See [an example using Docker Compose](example).
